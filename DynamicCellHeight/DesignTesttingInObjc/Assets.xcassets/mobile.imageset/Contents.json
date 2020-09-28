@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "mobile.jpeg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
