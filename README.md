@@ -1,5 +1,7 @@
 # CollectionView-Dynamic-cell-sizing
 
+<img src = "image.png" width="320" height="500">
+
 ```
 - (CGFloat)getTextHeightFromString:(NSString *)text ViewWidth:(CGFloat)width WithPading:(CGFloat)pading FontName:(NSString *)fontName AndFontSize:(CGFloat)fontSize
 {
